@@ -47,3 +47,10 @@ header, footer {
 .navbar-brand > img{
     border-radius: 50%;
 }
+.navbar-brand > img:hover {
+    width: 150%;
+    height: 150%;
+}
+.arrotonda > img {
+    border-radius: 15%;
+}
