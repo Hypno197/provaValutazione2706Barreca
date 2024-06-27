@@ -19,6 +19,7 @@ header, footer {
 .form-check > .form-check-input {
   float: none;
     margin-right: 0em;}
+    
     .scurisci {
         transition: 0.5s;
     }
@@ -42,4 +43,7 @@ header, footer {
     padding: 15px, 20px;
     transition: 0.8s;
     transition-delay: 0.1s;
+}
+.navbar-brand > img{
+    border-radius: 50%;
 }
