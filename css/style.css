@@ -1,0 +1,22 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14;
+}
+
+header, footer {
+    color: darkslategrey;
+}
+
+.serviziHome {
+    margin-left: 20%;
+    list-style-type: none;
+    max-width: 60%;
+} 
+.container-fluid {
+    max-width:100%;
+}
+
+.form-check > .form-check-input {
+  float: none;
+    margin-right: 0em;}
+    
